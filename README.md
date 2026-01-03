@@ -2,9 +2,14 @@
 <hr style="width:65%; height:2px; background-color:gray; border:none;" />
 
 # 👋 Hi, I'm **Al Faiz**
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fire+Code&size=20&pause=3000&color=00D4FF&Center=true&width=900&repeat=false&lines=💼+Passionate+Developer;🚀+Creative+Problem+Solver;📚+Always+Learning+New+Tech)font=Fira+Code&size=18&pause=2000&color=00D4FF&center=true&vCenter=true&width=500&height=70&lines=Passionate+Developer;Creative+Problem+Solver;Always+Learning+New+Tech)](https://github.com/af2616487-hash)
-</div>
-<div align="center">
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=20400&color=00BFFF&vCenter=true&width=900&repeat=false&lines=🧠+Code+projects+you+can+showcase.+Let+Aptifolio🌟+build+your+portfolio+in+2+minutes.;❌+Coding+a+portfolio.+✅Start+building+job/client+winning+projects.;Create.+Customize.+Share.)](https://aptifolio.com)
+
+<p align="left">
+  <!-- Primary CTAs: Demo first (trusted verification), then Themes & Create Portfolio -->
+  <a href="https://demo.aptifolio.app">🔍 Demo: See a portfolio</a>&nbsp;&nbsp;•&nbsp;&nbsp;
+  <a href="https://aptifolio.com/themes">🎨 Explore themes</a>&nbsp;&nbsp;•&nbsp;&nbsp;
+  <a href="https://aptifolio.com">⚡ Get Started</a>
+</p>
 
 ### 💻 CSE Student | 🎨 Creative Designer | 🚀 Learning Developer
 
