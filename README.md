@@ -3,7 +3,7 @@
 
 # 👋 Hi, I'm **Al Faiz**
 <div align="center">
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=2000&color=00D4FF&center=true&vCenter=true&width=500&height=70&lines=Passionate+Developer;Creative+Problem+Solver;Always+Learning+New+Tech)](https://github.com/af2616487-hash)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fire+Code&size=20&pause=3000&color=00D4FF&Center=true&width=900&repeat=false&lines=💼+Passionate+Developer;🚀+Creative+Problem+Solver;📚+Always+Learning+New+Tech)font=Fira+Code&size=18&pause=2000&color=00D4FF&center=true&vCenter=true&width=500&height=70&lines=Passionate+Developer;Creative+Problem+Solver;Always+Learning+New+Tech)](https://github.com/af2616487-hash)
 </div>
 
 ### 💻 CSE Student | 🎨 Creative Designer | 🚀 Learning Developer
