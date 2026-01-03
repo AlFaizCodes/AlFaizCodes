@@ -2,6 +2,7 @@
 <hr style="width:65%; height:2px; background-color:gray; border:none;" />
 
 # 👋 Hi, I'm **Al Faiz**
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=2000&color=00D4FF&center=true&vCenter=true&width=500&height=70&lines=Passionate+Developer;Creative+Problem+Solver;Always+Learning+New+Tech)](https://github.com/af2616487-hash)
 
 ### 💻 CSE Student | 🎨 Creative Designer | 🚀 Learning Developer
 
