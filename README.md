@@ -96,7 +96,8 @@ I am motivated, consistent, and always open to learning new technologies and wor
 ![GitHub Contributions](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Commits](https://img.shields.io/badge/Commits-Tracked-4CAF50?style=for-the-badge&logo=git&logoColor=white)
 
-[![Alfaiz's GitHub stats](https://github-readme-stats.vercel.app/api?username=af2616487-hash&theme=radical&show_icons=true&hide_border=true)](https://github.com/af2616487-hash)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=af2616487-hash&show_icons=true&theme=radical&include_all_commits=true" alt="GitHub stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=af2616487-hash&layout=compact&theme=radical" alt="Top Languages" />
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=af2616487-hash&layout=compact&theme=radical&hide_border=true)](https://github.com/af2616487-hash)
 
