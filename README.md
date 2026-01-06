@@ -4,6 +4,7 @@
 # 👋 Hi, I'm **Al Faiz**
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fire+Code&size=20&pause=3000&color=00D4FF&Center=true&width=900&repeat=false&lines=%F0%9F%92%BB+Code+Like+a+Pro;%F0%9F%9A%80+Build+Great+Projects;%F0%9F%93%9A+Master+DSA+and+Algorithms;%E2%9C%A8+Never+Stop+Learning)
 
+
 ### 💻 CSE Student | 🎨 Creative Designer | 🚀 Learning Developer
 
 <hr style="width:65%; height:2px; background-color:gray; border:none;" />
