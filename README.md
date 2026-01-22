@@ -90,14 +90,13 @@ If you have any **tips, suggestions, or guidance** on improving contributions or
 - 🎨 Improving **UI & packaging design skills**
 
 ---
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=AlFaizCodes&theme=highcontrast&hide_border=true&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=AlFaizCodes&theme=highcontrast&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=AlFaizCodes&theme=highcontrast&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub Streak](https://streak-stats.demolab.com?user=af2616487-hash&theme=radical)
-
-</div>
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
 
