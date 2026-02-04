@@ -10,7 +10,7 @@
 
 ---
 
-## 👨‍💻 About Me
+## 👨‍💻 About Me!
 
 I’m a **Computer Science Engineering student** focused on building **strong programming fundamentals** and improving problem-solving skills through consistent practice and projects.
 
