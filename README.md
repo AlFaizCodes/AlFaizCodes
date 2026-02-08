@@ -16,7 +16,7 @@ I’m a **Computer Science Engineering student** focused on building **strong pr
 
 Alongside coding, I run a **small creative venture** designing **box & packaging designs**, allowing me to blend **technology with creativity**.
 
-- 🌱 Learning step by step, not rushing  
+- 🌱 Learning step by step, not rushing.  
 - 🔁 Believe in **consistency over shortcuts**  
 - 🧠 Focused on **real understanding, not rote learning**
 
