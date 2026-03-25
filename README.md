@@ -1,10 +1,12 @@
 <div align="center">
 
-# 👋 Hi, I'm **Al Faiz**
+# 👋 Hi, Myself  **Al Faiz**
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=2000&color=00D4FF&center=true&width=850&lines=Consistency+Over+Everything;Learning+Software+Development;Code+%7C+Design+%7C+Grow" />
 
-### 💻 CSE Student | 🚀 Aspiring Software Developer | 🎨 Creative Designer
+---
+
+### 💻 CSE AIML Student | 🚀 Aspiring Software Developer | 🎨 Creative Designer
 
 </div>
 
@@ -28,15 +30,16 @@ Alongside coding, I run a **small creative venture** designing **box & packaging
 - **Python** (Practice & small projects)
 - **C++ with DSA** (Problem solving)
 
+---
 
-### 📌 What I’m Learning Today
+### 📌 Area Of Focus
 - Git & GitHub basics
 - Clean commit messages
 - Daily consistency
 
 ---
 
-## 🤝 Looking For
+### 🤝 Area Of Scope
 
 - Beginner-friendly **open-source contributions**
 - **College & learning-based projects**
@@ -78,7 +81,7 @@ Alongside coding, I run a **small creative venture** designing **box & packaging
 
 ---
 
-## 🚀 Current Focus
+## 🚀 Future Goals
 
 - 📘 Strengthening **DSA with C++**
 - 🐍 Building **Python practice repositories**
@@ -112,7 +115,7 @@ Alongside coding, I run a **small creative venture** designing **box & packaging
 
 <div align="center">
 
-### ⭐ If you like my work, consider starring my repositories  
+### ⭐ If you like my work, consider starring my repositories and using it for your own self
 **Let’s learn, build & grow together 🚀**
 
 </div>
